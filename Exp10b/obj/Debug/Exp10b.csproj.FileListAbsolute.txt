@@ -1,0 +1,10 @@
+C:\Users\tharu\source\repos\Exp10b\Exp10b\bin\Debug\Exp10b.exe.config
+C:\Users\tharu\source\repos\Exp10b\Exp10b\bin\Debug\Exp10b.exe
+C:\Users\tharu\source\repos\Exp10b\Exp10b\bin\Debug\Exp10b.pdb
+C:\Users\tharu\source\repos\Exp10b\Exp10b\obj\Debug\Exp10b.csproj.AssemblyReference.cache
+C:\Users\tharu\source\repos\Exp10b\Exp10b\obj\Debug\Exp10b.Form1.resources
+C:\Users\tharu\source\repos\Exp10b\Exp10b\obj\Debug\Exp10b.Properties.Resources.resources
+C:\Users\tharu\source\repos\Exp10b\Exp10b\obj\Debug\Exp10b.csproj.GenerateResource.cache
+C:\Users\tharu\source\repos\Exp10b\Exp10b\obj\Debug\Exp10b.csproj.CoreCompileInputs.cache
+C:\Users\tharu\source\repos\Exp10b\Exp10b\obj\Debug\Exp10b.exe
+C:\Users\tharu\source\repos\Exp10b\Exp10b\obj\Debug\Exp10b.pdb
